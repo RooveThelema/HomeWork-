@@ -8,7 +8,7 @@ namespace homework
 {
     public class MyMath
     {
-        public double sum(int[] array)
+        public int sum(int[] array)
         {
             int result = 0;
             foreach (var number in array)
@@ -18,7 +18,7 @@ namespace homework
             return result;
         }
 
-        public double max(int[] array)
+        public int max(int[] array)
         {
             var result = array[0];
             foreach (var number in array)
@@ -31,7 +31,7 @@ namespace homework
             return result;
         }
 
-        public double min(int[] array)
+        public int min(int[] array)
         {
             var result = array[0];
             foreach (var number in array)
@@ -44,7 +44,7 @@ namespace homework
             return result;
         }
 
-        public double count(int[] array)
+        public int count(int[] array)
         {
             return array.Length;
         }

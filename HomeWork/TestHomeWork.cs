@@ -4,13 +4,10 @@ public class TestHomeWork
 {
     public static void Main(string[] args)
     {
+        ParserArray parserArray = new ParserArray();
         MyMath math = new MyMath();
-        var arrayLenght = Convert.ToInt32(Console.ReadLine());
-        int[] array = new int[arrayLenght];
-        for (int i = 0; i < arrayLenght; i++)
-        {
-            array[i] = Convert.ToInt32(Console.ReadLine());
-        }
+        int[] array = parserArray.GetArray();;
+        
         double sumResult = math.sum(array);
         double maxResult = math.max(array);
         double minResult = math.min(array);

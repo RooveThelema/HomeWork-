@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/roovethelema/RiderProjects/HomeWork/HomeWork/HomeWork.csproj": {}
+    "/home/roovethelema/Desktop/qq/HomeWork-/HomeWork/HomeWork.csproj": {}
   },
   "projects": {
-    "/home/roovethelema/RiderProjects/HomeWork/HomeWork/HomeWork.csproj": {
+    "/home/roovethelema/Desktop/qq/HomeWork-/HomeWork/HomeWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/roovethelema/RiderProjects/HomeWork/HomeWork/HomeWork.csproj",
+        "projectUniqueName": "/home/roovethelema/Desktop/qq/HomeWork-/HomeWork/HomeWork.csproj",
         "projectName": "HomeWork",
-        "projectPath": "/home/roovethelema/RiderProjects/HomeWork/HomeWork/HomeWork.csproj",
+        "projectPath": "/home/roovethelema/Desktop/qq/HomeWork-/HomeWork/HomeWork.csproj",
         "packagesPath": "/home/roovethelema/.nuget/packages/",
-        "outputPath": "/home/roovethelema/RiderProjects/HomeWork/HomeWork/obj/",
+        "outputPath": "/home/roovethelema/Desktop/qq/HomeWork-/HomeWork/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/roovethelema/.nuget/NuGet/NuGet.Config"

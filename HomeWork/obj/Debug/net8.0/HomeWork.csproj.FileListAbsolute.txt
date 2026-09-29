@@ -1,0 +1,14 @@
+/home/roovethelema/RiderProjects/HomeWork/HomeWork/obj/Debug/net8.0/HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+/home/roovethelema/RiderProjects/HomeWork/HomeWork/obj/Debug/net8.0/HomeWork.AssemblyInfoInputs.cache
+/home/roovethelema/RiderProjects/HomeWork/HomeWork/obj/Debug/net8.0/HomeWork.AssemblyInfo.cs
+/home/roovethelema/RiderProjects/HomeWork/HomeWork/obj/Debug/net8.0/HomeWork.csproj.CoreCompileInputs.cache
+/home/roovethelema/RiderProjects/HomeWork/HomeWork/bin/Debug/net8.0/HomeWork
+/home/roovethelema/RiderProjects/HomeWork/HomeWork/bin/Debug/net8.0/HomeWork.deps.json
+/home/roovethelema/RiderProjects/HomeWork/HomeWork/bin/Debug/net8.0/HomeWork.runtimeconfig.json
+/home/roovethelema/RiderProjects/HomeWork/HomeWork/bin/Debug/net8.0/HomeWork.dll
+/home/roovethelema/RiderProjects/HomeWork/HomeWork/bin/Debug/net8.0/HomeWork.pdb
+/home/roovethelema/RiderProjects/HomeWork/HomeWork/obj/Debug/net8.0/HomeWork.dll
+/home/roovethelema/RiderProjects/HomeWork/HomeWork/obj/Debug/net8.0/refint/HomeWork.dll
+/home/roovethelema/RiderProjects/HomeWork/HomeWork/obj/Debug/net8.0/HomeWork.pdb
+/home/roovethelema/RiderProjects/HomeWork/HomeWork/obj/Debug/net8.0/HomeWork.genruntimeconfig.cache
+/home/roovethelema/RiderProjects/HomeWork/HomeWork/obj/Debug/net8.0/ref/HomeWork.dll

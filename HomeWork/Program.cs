@@ -8,20 +8,20 @@ namespace homework
 {
     public class MyMath
     {
-        public double sum(int[] numbers)
+        public double sum(int[] array)
         {
             int result = 0;
-            foreach (var number in numbers)
+            foreach (var number in array)
             {
                 result += number;
             }
             return result;
         }
 
-        public double max(int[] numbers)
+        public double max(int[] array)
         {
-            var result = numbers[0];
-            foreach (var number in numbers)
+            var result = array[0];
+            foreach (var number in array)
             {
                 if (number > result)
                 {
@@ -31,10 +31,10 @@ namespace homework
             return result;
         }
 
-        public double min(int[] numbers)
+        public double min(int[] array)
         {
-            var result = numbers[0];
-            foreach (var number in numbers)
+            var result = array[0];
+            foreach (var number in array)
             {
                 if (number < result)
                 {
@@ -44,9 +44,9 @@ namespace homework
             return result;
         }
 
-        public double count(int[] numbers)
+        public double count(int[] array)
         {
-            return numbers.Length;
+            return array.Length;
         }
     }
 }

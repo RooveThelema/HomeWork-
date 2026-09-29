@@ -4,14 +4,17 @@ public class TestHomeWork
 {
     public static void Main(string[] args)
     {
-        Console.OutputEncoding = System.Text.Encoding.UTF8;
-
         MyMath math = new MyMath();
-        int[] numbers = { 1, 2, -3, 0, 5, 6, 7 };
-        double sumResult = math.sum(numbers);
-        double maxResult = math.max(numbers);
-        double minResult = math.min(numbers);
-        double countResult = math.count(numbers);
+        var arrayLenght = Convert.ToInt32(Console.ReadLine());
+        int[] array = new int[arrayLenght];
+        for (int i = 0; i < arrayLenght; i++)
+        {
+            array[i] = Convert.ToInt32(Console.ReadLine());
+        }
+        double sumResult = math.sum(array);
+        double maxResult = math.max(array);
+        double minResult = math.min(array);
+        double countResult = math.count(array);
         
         Console.WriteLine($"sum: {sumResult}");
         Console.WriteLine($"max: {maxResult}");
